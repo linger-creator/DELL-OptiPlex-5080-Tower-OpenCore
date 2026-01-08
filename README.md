@@ -6,7 +6,8 @@
 
 - MacOS  Sequoia 15.7.3
 
-# 
+### OpenCore
+ - Version : 1.0.6 debug
 
 ### Hardware
 
