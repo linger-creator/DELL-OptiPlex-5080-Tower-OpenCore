@@ -143,7 +143,7 @@
                 <key>SignalAppleOS</key>
                 <false/>
                 <key>SyncRuntimePermissions</key>
-                <false/>
+                <true/>
             </dict>
         </dict>
         <key>DeviceProperties</key>
@@ -507,7 +507,7 @@
                 <key>PickerAudioAssist</key>
                 <false/>
                 <key>PickerMode</key>
-                <string>External</string>
+                <string>Builtin</string>
                 <key>PickerVariant</key>
                 <string>Acidanthera\Chardonnay</string>
                 <key>PollAppleHotKeys</key>
@@ -971,7 +971,7 @@
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>LoadEarly</key>
                     <false/>
                     <key>Path</key>
