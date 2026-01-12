@@ -7,13 +7,14 @@
 - MacOS  Sequoia 15.7.3
 
 ### OpenCore
- - Version : 1.0.6 debug
+- ~~ Version : 1.0.6 debug ~~
+- Version : 1.0.6 Release
 
 ### Hardware
 
 - Motherboard: DELL Q470
 
-- Bios Version:
+- Bios Version: 1.33.0
 
 - CPU: Intel i5 10500
 
@@ -27,6 +28,10 @@
 
 - Ethernet Card: Intel I219-LM
 
+### USB
+- Front: USB 3 * 1 ,USB 3 Type-C * 1 ,USB 3 * 2
+- Back: USB 3 * 4 ,USB 2 * 2
+- The USB has been customized, but one of the rear USB 3 ports can only operate at USB 2 speed.
 
 ### Bios Setup
 
